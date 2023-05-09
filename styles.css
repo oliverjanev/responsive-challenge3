@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: #23424a;
+  color: #fff;
+  font-family: Roboto;
+  padding: 5em;
+}
+
+.intro {
+  width: 50%;
+  max-width: 750px;
+}
+
+.intro h1 {
+  font-size: 48px;
+  margin: 0.7rem 0;
+}
+
+.intro p {
+  font-size: 21px;
+  margin: 1.3rem 0;
+}
+
+.intro button {
+  background-color: #38cfd9;
+  padding: 1em 1.5em;
+  border-radius: 30px;
+  font-size: 21px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 3rem 0;
+}
